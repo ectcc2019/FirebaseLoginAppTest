@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/7c0c4152765d4f27a14cc10a1f9d5f448e1bca19/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/e00acfa3fea34a878e5ba031db36b1c75d18dc6e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dhanushvenkatesh/.android/build-cache/7c3b88665097eadd13199a9696832fa57b960d67/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/b89a2ad1b3c04f56309eb2031ea6a27b2526ad7b/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/aaf23a0fe42bd78b0694dae63121359f2e077aed/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-core:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79afd1a260e4516a17bd9c94b68a851c548de7bd/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/1f1c844ad2f9e0fb62ef31160afdcb7076ab31ce/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/4e343ba856349b7a67aadb1582e00c98bccda3ef/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/71fd766d50443a651ebd959046eed83561499acf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/8b539e07f11050db47b1e285f7ac5c4df982ee15/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b8202717fb49ce104e87b58913b7ec3559e84da8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b862d8c18ada54e611b84bd44a239f0d0e07274d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/78e6c2397308335696a0f73f02a6f7496453ec82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/69349de7de61dcaa313ba1243a5e1e46e58fd9ae/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.firebaseloginapp.AccountActivity.LoginActivity
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:14:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.firebaseloginapp.AccountActivity.MainActivity
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:21:19-63
+activity#com.firebaseloginapp.AccountActivity.SignupActivity
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:22:9-68
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:22:19-65
+activity#com.firebaseloginapp.AccountActivity.ResetPasswordActivity
+ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:23:9-84
+	android:name
+		ADDED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml:23:19-72
+uses-sdk
+INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/7c0c4152765d4f27a14cc10a1f9d5f448e1bca19/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/e00acfa3fea34a878e5ba031db36b1c75d18dc6e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dhanushvenkatesh/.android/build-cache/7c3b88665097eadd13199a9696832fa57b960d67/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/b89a2ad1b3c04f56309eb2031ea6a27b2526ad7b/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/aaf23a0fe42bd78b0694dae63121359f2e077aed/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/dab28fa299b90d927d455307f6680dd0d4472deb/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79afd1a260e4516a17bd9c94b68a851c548de7bd/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/1f1c844ad2f9e0fb62ef31160afdcb7076ab31ce/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/4e343ba856349b7a67aadb1582e00c98bccda3ef/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/71fd766d50443a651ebd959046eed83561499acf/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/8b539e07f11050db47b1e285f7ac5c4df982ee15/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b8202717fb49ce104e87b58913b7ec3559e84da8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b862d8c18ada54e611b84bd44a239f0d0e07274d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/78e6c2397308335696a0f73f02a6f7496453ec82/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/69349de7de61dcaa313ba1243a5e1e46e58fd9ae/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/7c0c4152765d4f27a14cc10a1f9d5f448e1bca19/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/e00acfa3fea34a878e5ba031db36b1c75d18dc6e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/71fd766d50443a651ebd959046eed83561499acf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/8b539e07f11050db47b1e285f7ac5c4df982ee15/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b8202717fb49ce104e87b58913b7ec3559e84da8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/b862d8c18ada54e611b84bd44a239f0d0e07274d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/78e6c2397308335696a0f73f02a6f7496453ec82/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/69349de7de61dcaa313ba1243a5e1e46e58fd9ae/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/79d78b70c3fbaca4622ee0c61d5c40ab60efdf07/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/402e23a84ad1ee936cc03d5e5c1d082c25f5728e/output/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/5253bf25b77448cd4fd6e2614d1b2c83d077e737/output/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/9da7a476f014a57a8280a745554e39ae14db8712/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/348dd2c57acb9b3c4c46c671339c5540b34de437/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/4e343ba856349b7a67aadb1582e00c98bccda3ef/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/4e343ba856349b7a67aadb1582e00c98bccda3ef/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /Users/dhanushvenkatesh/.android/build-cache/4e343ba856349b7a67aadb1582e00c98bccda3ef/output/AndroidManifest.xml:22:13-58
